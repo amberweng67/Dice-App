@@ -2,7 +2,7 @@
 //  SceneDelegate.swift
 //  Dice App
 //
-//  Created by Hanchi Zhang on 9/18/21.
+//  Created by Liuning Weng on 9/18/21.
 //
 
 import UIKit
